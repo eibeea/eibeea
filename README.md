@@ -1,13 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou a B_</h1>
 <h3 align="center">Analista e entusiasta na área de dados e aprendizado de máquina.</h3>
 
-- 💻 Atualmente, a procura de novas oportunidades na **área de dados.**
+- 💻 No momento, estou a procura de novas oportunidades na área de dados, com **Python e machine learning.**
 
-- 🌱 No momento, estou mergulhando na imensidão da área de dados com **Python e machine learning.**
+- 🤓 Também estou trabalhando em um projeto **pessoal.**
 
-- 🤓 Também estou trabalhando em um projeto pessoal **Particular.**
-
-- 📄 Trabalhei durante alguns anos com a entrega de **redes e suporte ao usuário.**
+- 📄 Trabalhei durante alguns anos com a entrega de **conexões de internet e suporte ao usuário.**
 
 
 <p align="left">
