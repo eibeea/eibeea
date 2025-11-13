@@ -1,5 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou a B_</h1>
 <h3 align="center">Analista e entusiasta na área de dados e aprendizado de máquina.</h3>
+<div align="center"><img src="https://github.com/eibeea/eibeea/blob/main/girl.jpeg" width=600px/></div>
+
+
 
 - 💻 No momento, estou a procura de novas oportunidades na área de dados, com **Python e machine learning.**
 
