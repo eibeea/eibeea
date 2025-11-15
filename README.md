@@ -3,12 +3,11 @@
 <div align="center"><img src="https://github.com/eibeea/eibeea/blob/main/girl.jpeg" width=600px/></div>
 
 
+- 📄 Trabalhei durante alguns anos com a entrega de **conexões de internet e suporte ao usuário.**
 
 - 💻 No momento, estou a procura de novas oportunidades na área de dados, com **Python e machine learning.**
 
-- 🤓 Também estou trabalhando em um projeto **pessoal.**
-
-- 📄 Trabalhei durante alguns anos com a entrega de **conexões de internet e suporte ao usuário.**
+- 🤓 Também estou trabalhando em um projeto pessoal.
 
 
 <p align="left">
